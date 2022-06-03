@@ -1,0 +1,12 @@
+.card {
+  width: 100%;
+}
+
+.card a {
+  padding: 1rem;
+  color: #8685ef;
+}
+
+a:hover {
+  color: #272727;
+}

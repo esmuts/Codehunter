@@ -1,0 +1,34 @@
+/*
+
+black: #272727
+blue:#8685EF
+white: #FAF8FF
+green: #D3FBD8
+
+*/
+
+.app {
+  text-align: center;
+  color: #faf8ff;
+}
+
+.header {
+  border: 1px solid black;
+  background-color: #8685ef;
+  padding-bottom: 1rem;
+}
+
+.search {
+  border: 1px solid black;
+  background-color: #272727;
+  padding: 1rem;
+}
+
+.display {
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem;
+  border: 1px solid black;
+  background-color: #faf8ff;
+  color: #272727;
+}

@@ -1,0 +1,10 @@
+.card {
+  width: 100%;
+}
+
+.user-image {
+  width: 35vmin;
+  margin: auto;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}

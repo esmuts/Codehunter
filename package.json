@@ -1,0 +1,25 @@
+{
+  "name": "codehunter",
+  "version": "1.0.0",
+  "description": "An app that retrieves repository data from GitHub and GitLab",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "nodemon ./bin/www"
+  },
+  "author": "esmuts",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.27.2",
+    "express": "4.18.1",
+    "helmet": "5.1.0",
+    "promise": "8.1.0",
+    "request": "2.88.2",
+    "request-promise": "4.2.6"
+  },
+  "devDependencies": {
+    "chai": "4.3.6",
+    "mocha": "10.0.0",
+    "nodemon": "2.0.16"
+  }
+}
